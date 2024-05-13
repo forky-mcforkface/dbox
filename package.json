@@ -35,7 +35,7 @@
     "url": "https://github.com/sintaxi/node-dbox.git"
   },
   "dependencies": {
-    "request": "2.9.153"
+    "request": "2.88.2"
   },
   "devDependencies": { 
     "mocha": "1.21.4",
